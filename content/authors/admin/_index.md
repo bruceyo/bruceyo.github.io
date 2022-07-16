@@ -1,6 +1,7 @@
 ---
 title: Bruce X.B. Yu
 role: Ph.D. in Artificial Intelligence
+avatar_filename: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=o2VAejIAAAAJ&citpid=7
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -13,30 +14,27 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bruceyo7
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=o2VAejIAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bruceyo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Artificial Intelligence
+      institution: The Hong Kong Polytechnic University
+      year: 2019
+    - course: M.Sc. in Information Technology
+      institution: The Hong Kong Polytechnic University
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
