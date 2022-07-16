@@ -1,7 +1,7 @@
 ---
 title: Bruce X.B. Yu
 role: Ph.D. in Artificial Intelligence
-avatar_filename: framework.png
+avatar_filename: citations.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
