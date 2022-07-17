@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bruce Yu # Website name
-baseURL: 'https://bruceyo.netlify.app/' # Website URL
+baseURL: 'https://bruceyo.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
