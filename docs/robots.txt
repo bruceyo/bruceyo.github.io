@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://bruceyo.github.io/sitemap.xml
