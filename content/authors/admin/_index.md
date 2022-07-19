@@ -23,7 +23,7 @@ social:
     link: https://github.com/bruceyo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/bruceyo/
 organizations:
   - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/en/
