@@ -31,11 +31,11 @@ education:
   courses:
     - course: Ph.D. in Artificial Intelligence
       institution: The Hong Kong Polytechnic University
-      year: 2019
+      year: 2020
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2015
-email: ""
+email: bruceyo2011@gmail.com
 superuser: true
 highlight_name: true
 ---
