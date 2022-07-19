@@ -22,9 +22,7 @@ authors:
   - admin
   - Yan Liu
   - Keith C.C. Chan
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: In *The Thirty-Fifth AAAI Conference on Artificial Intelligence*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -40,12 +38,14 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit:
+    [**Unsplash**](https://github.com/bruceyo/TSMF/blob/master/resource/info/ne\
+    ural_fused_repre.png)"
   focal_point: ""
   preview_only: false
 date: 2022-07-19T03:03:32.184Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
