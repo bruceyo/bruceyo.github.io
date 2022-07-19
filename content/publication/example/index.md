@@ -14,7 +14,7 @@ abstract: "Indoor action recognition plays an important role in modern society,
   single modal and multimodal methods. It also indicates that our TSMF could not
   only improve the accuracy of the student network but also significantly
   improve the ensemble accuracy."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -29,7 +29,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum.
 url_dataset: ""
 url_project: ""
-publication_short: In *AAAI 2022*
+publication_short: In *AAAI 2021*
 url_source: ""
 url_video: ""
 title: Multimodal Fusion via Teacher-Student Network for Indoor Action Recognition
@@ -43,7 +43,7 @@ image:
     ural_fused_repre.png)"
   focal_point: ""
   preview_only: false
-date: 2022-07-19T03:03:32.184Z
+date: 2021-05-18T03:03:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
