@@ -26,7 +26,7 @@ abstract: "Indoor action recognition plays an important role in modern society,
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-05-26T13:58:39.936Z
