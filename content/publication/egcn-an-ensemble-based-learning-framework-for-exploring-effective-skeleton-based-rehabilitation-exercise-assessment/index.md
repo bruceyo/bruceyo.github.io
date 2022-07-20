@@ -50,6 +50,7 @@ url_source: ""
 url_video: ""
 title: "EGCN: An Ensemble-based Learning Framework for Exploring Effective
   Skeleton-based Rehabilitation Exercise Assessment"
+subtitle: ""
 doi: ""
 featured: true
 tags: []
@@ -67,7 +68,7 @@ publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
+url_pdf = 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
