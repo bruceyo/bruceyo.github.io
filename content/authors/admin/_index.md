@@ -42,6 +42,4 @@ highlight_name: true
 ---
 Bruce X.B. Yu obtained Ph.D. in the Department of Computing from The Hong Kong Polytechnic University, Hong Kong. He is now with the Hong Kong Polytechnic University as a Research Associate.
 
-His research interests include big data analytics, artificial intelligence, and image/video processing. He has been working on developing various deep classification and regression models for intelligent healthcare, such as evaluating rehabilitation exercises and monitoring Alzheimer's progression. Besides application-driven research, He also work on fundamental research problems of 3D human pose reconstruction and multimodal data/sensor fusion.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+His research interests include big data analytics, artificial intelligence, and image/video processing. He has been working on developing various deep classification and regression models for intelligent healthcare, such as evaluating rehabilitation exercises and monitoring Alzheimer's progression. Besides application-driven research, He also works on fundamental research problems of 3D human pose reconstruction and multimodal data/sensor fusion.
