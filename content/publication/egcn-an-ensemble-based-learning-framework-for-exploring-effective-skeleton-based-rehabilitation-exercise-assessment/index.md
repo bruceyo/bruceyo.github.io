@@ -43,7 +43,7 @@ summary: |-
   based rehabilitation exercise assessment.
 url_dataset: ""
 url_project: ""
-publication_short: In *IJCAI*
+publication_short: IJCAI
 url_source: ""
 url_video: ""
 title: "EGCN: An Ensemble-based Learning Framework for Exploring Effective
