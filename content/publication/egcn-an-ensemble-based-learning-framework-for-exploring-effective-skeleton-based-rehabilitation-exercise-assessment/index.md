@@ -61,7 +61,7 @@ image:
     e_framework.png)"
   focal_point: ""
   preview_only: false
-  filename: ensemble_framework.png
+  filename: featured.png
 date: 2022-07-20T04:35:38.923Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
