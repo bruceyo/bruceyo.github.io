@@ -38,12 +38,12 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit:
-    [**Unsplash**](https://github.com/bruceyo/TSMF/blob/master/resource/info/ne\
-    ural_fused_repre.png)"
+  caption: "Image credit: [**Original
+    Figure**](https://github.com/bruceyo/TSMF/blob/master/resource/info/neural_\
+    fused_repre.png)"
   focal_point: ""
   preview_only: false
-  filename: https://github.com/bruceyo/TSMF/blob/master/resource/info/neural_fused_repre.png
+  filename: featured.png
 date: 2021-05-18T03:03:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
