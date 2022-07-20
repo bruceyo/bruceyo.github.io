@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Human Behavior Understanding
-  - 3D Pose Detection
+  - 3D Human Pose Detection
   - Computational Linguistics
   - Fine-tuning
 social:
