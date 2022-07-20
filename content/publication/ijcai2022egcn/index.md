@@ -36,9 +36,9 @@ abstract: |-
   than existing methods. Code is available:
   https://github.com/bruceyo/EGCN.
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2022-07-20T14:09:19.429Z
