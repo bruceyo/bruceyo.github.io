@@ -34,9 +34,15 @@ authors:
   - Keith C.C. Chan
 author_notes: []
 publication: In *THE 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: |-
+  Recently, some skeleton-based physical therapy systems have been
+  attempted to automatically evaluate the correctness or quality of an
+  exercise performed by rehabilitation subjects. However, in terms of
+  algorithms and evaluation criteria, the task remains not fully explored
+  regarding making full use of different skeleton features. To
+  advance the prior work, we propose a learning framework called
+  Ensemble-based Graph Convolutional Network (EGCN) for skeleton-
+  based rehabilitation exercise assessment.
 url_dataset: ""
 url_project: ""
 publication_short: In *IJCAI 2022*
@@ -50,10 +56,11 @@ tags: []
 projects: []
 image:
   caption: "Image credit:
-    [**Unsplash**](https://github.com/bruceyo/TSMF/blob/master/resource/info/ne\
-    ural_fused_repre.png)"
+    [**Unsplash**](https://github.com/bruceyo/EGCN/blob/master/resource/ensembl\
+    e_framework.png)"
   focal_point: ""
   preview_only: false
+  filename: ensemble_framework.png
 date: 2022-07-20T04:35:38.923Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
