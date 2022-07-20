@@ -5,9 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
+  - Human Behavior Understanding
+  - 3D Pose Detection
   - Computational Linguistics
-  - Information Retrieval
+  - Fine-tuning
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,4 +44,4 @@ Bruce X.B. Yu obtained Ph.D. in the Department of Computing from The Hong Kong P
 
 His research interests include big data analytics, artificial intelligence, and image/video processing. He has been working on developing various deep classification and regression models for intelligent healthcare, such as evaluating rehabilitation exercises and monitoring Alzheimer's progression. Besides application-driven research, He also work on fundamental research problems of 3D human pose reconstruction and multimodal data/sensor fusion.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
