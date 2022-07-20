@@ -7,6 +7,7 @@ authors:
   - Yan Liu
   - Keith C.C. Chan
 publication: International Conference on Digital Health and Care
+publication_short: In *ICDHC*
 abstract: >-
   We propose to record Activities of Daily Living
 
