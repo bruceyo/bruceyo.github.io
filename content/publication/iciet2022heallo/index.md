@@ -1,5 +1,6 @@
 ---
-title: iciet2022heallo
+title: "Heallo: Conversational System for Communication Training in Healthcare
+  Professional Education"
 publication_types:
   - "1"
 draft: false
