@@ -28,6 +28,10 @@ publication_types:
   - "1"
 authors:
   - admin
+  - Yan Liu
+  - Xiang Zhang
+  - Gong Chen
+  - Keith C.C. Chan
 author_notes: []
 publication: In *THE 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE*
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
