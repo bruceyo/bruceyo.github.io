@@ -1,7 +1,7 @@
 ---
 title: kdir2020survey
 publication_types:
-  - "0"
+  - "1"
 draft: false
 featured: false
 image:
