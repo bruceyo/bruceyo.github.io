@@ -9,8 +9,8 @@ authors:
   - Keith C. C. Chan
   - Qintai Yang
   - Xiaoying Wang
-publication: Pattern Recognition
-publication_short: ""
+publication: ""
+publication_short: In *Pattern Recognition*
 abstract: Human action evaluation (HAE) involves judgments about the abnormality
   and quality of human actions. If performed effectively, HAE based on skeleton
   data can be used to monitor the outcomes of behavioral therapies for
