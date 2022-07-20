@@ -35,8 +35,11 @@ abstract: "Human action recognition (HAR) in RGB-D videos has been widely
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+summary: "Our MMNet outperforms state-of-the-art approaches on six evaluation
+  protocols of the five benchmark datasets: NTU RGB+D 60, NTU RGB+D 120,
+  PKU-MMD, Northwestern-UCLA Multiview, and Toyota Smarthome"
 date: 2022-05-16T14:08:19.584Z
 ---
