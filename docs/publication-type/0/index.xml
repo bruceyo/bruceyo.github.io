@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Bruce Yu</title>
+    <link>https://bruceyo.github.io/publication-type/0/</link>
+      <atom:link href="https://bruceyo.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Aug 2021 14:09:49 +0000</lastBuildDate>
+    <image>
+      <url>https://bruceyo.github.io/media/icon_hu5d1d65670f69a26b0e02d79aae4b6042_2047_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://bruceyo.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Skeleton-based Human Action Evaluation Using Graph Convolutional Network for Monitoring Alzheimer&#39;s Progression</title>
+      <link>https://bruceyo.github.io/publication/pr2021skeleton/</link>
+      <pubDate>Thu, 19 Aug 2021 14:09:49 +0000</pubDate>
+      <guid>https://bruceyo.github.io/publication/pr2021skeleton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
