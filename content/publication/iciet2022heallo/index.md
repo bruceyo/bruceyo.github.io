@@ -13,7 +13,7 @@ authors:
   - Sze-Sze So
   - Victor Kai-Lam Cheung
 publication: The 10th International Conference on Information and Education Technology
-publication_short: ICIET
+publication_short: In *ICIET*
 abstract: >-
   Effective communication is critical in the healthcare
 
@@ -24,5 +24,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-20T14:13:11.713Z
+date: 2022-05-01T14:13:11.713Z
 ---
