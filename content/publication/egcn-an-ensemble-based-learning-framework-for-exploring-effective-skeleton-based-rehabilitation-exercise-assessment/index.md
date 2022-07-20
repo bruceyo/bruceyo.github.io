@@ -37,9 +37,7 @@ publication: In *THE 31ST INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGE
 summary: |-
   Recently, some skeleton-based physical therapy systems have been
   attempted to automatically evaluate the correctness or quality of an
-  exercise performed by rehabilitation subjects. However, in terms of
-  algorithms and evaluation criteria, the task remains not fully explored
-  regarding making full use of different skeleton features. To
+  exercise performed by rehabilitation subjects. To
   advance the prior work, we propose a learning framework called
   Ensemble-based Graph Convolutional Network (EGCN) for skeleton-
   based rehabilitation exercise assessment.
