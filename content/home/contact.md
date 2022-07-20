@@ -31,7 +31,7 @@ content:
     #street: 450 Serra Mall
     #city: Stanford
     region: Kowloon
-    postcode: '94305'
+    #postcode: '94305'
     country: Hong Kong
     country_code: HK
   coordinates:
