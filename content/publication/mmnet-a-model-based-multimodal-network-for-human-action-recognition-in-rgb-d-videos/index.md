@@ -39,5 +39,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: "Extensive experiments are conducted on five benchmark datasets: NTU
+  RGB+D 60, NTU RGB+D 120, PKU-MMD, Northwestern-UCLA Multiview, and Toyota
+  Smarthome. Upon aggregating the results of multiple modalities, our method is
+  found to outperform state-of-the-art approaches on six evaluation protocols of
+  the five datasets."
 date: 2022-05-26T06:23:00.000Z
 ---
