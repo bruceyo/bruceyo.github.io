@@ -43,6 +43,7 @@ image:
     ural_fused_repre.png)"
   focal_point: ""
   preview_only: false
+  filename: https://github.com/bruceyo/TSMF/blob/master/resource/info/neural_fused_repre.png
 date: 2021-05-18T03:03:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
