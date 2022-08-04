@@ -12,8 +12,7 @@ authors:
   - So Eric Hang-Kwong
   - So Sze-Sze
   - Cheung Victor Kai-Lam
-publication: The 7th International Conference on Computational Intelligence and
-  Applications (ICCIA)
+publication: In *ICCIA*
 abstract: >-
   Clinical handover is a crucial yet high-risk
 
