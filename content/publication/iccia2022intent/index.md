@@ -3,6 +3,15 @@ title: Intent-Aware Long Short-Term Memory for Intelligent Training of Clinical
   Handover
 publication_types:
   - "1"
+authors:
+  - Zhang Xiang
+  - admin
+  - Liu Yan
+  - Ng George Wing-Yiu
+  - Chia Nam-Hung
+  - So Eric Hang-Kwong
+  - So Sze-Sze
+  - Cheung Victor Kai-Lam
 publication: The 7th International Conference on Computational Intelligence and
   Applications (ICCIA)
 abstract: >-
