@@ -1,6 +1,6 @@
 ---
 title: Bruce X.B. Yu
-role: Ph.D. in Artificial Intelligence
+role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/bruceyo/
 organizations:
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/en/
+  - name: ZJU-UIUC Institute
+    url: https://zjui.intl.zju.edu.cn/en
 education:
   courses:
     - course: Ph.D. in Artificial Intelligence
@@ -36,10 +36,9 @@ education:
     - course: M.Sc. in Information Technology
       institution: The Hong Kong Polytechnic University
       year: 2015
-email: bruceyo2011@gmail.com
+email: xinboyu@intl.zju.edu.cn
 superuser: true
 highlight_name: true
 ---
-Bruce X.B. Yu obtained Ph.D. in the Department of Computing from The Hong Kong Polytechnic University, Hong Kong. He is now with the Hong Kong Polytechnic University as a Research Associate.
 
-His research interests include big data analytics, artificial intelligence, and image/video processing. He has been working on developing various deep classification and regression models for intelligent healthcare, such as evaluating rehabilitation exercises and monitoring Alzheimer's progression. Besides application-driven research, He also works on fundamental research problems of 3D human pose reconstruction and multimodal data/sensor fusion.
+Dr. Bruce X.B. Yu joined ZJU-UIUC Institute as an Assistant Professor in January 2024. Before joining the institute, he served as a Post-doc Fellow with the Department of Computing at the Hong Kong Polytechnic University where he earned his Ph.D. in September 2020. His research expertise spans across big data analytics, artificial intelligence, and image/video processing. His primary research topic is vision-based human behavior understanding, leading to publications on top venues such as TPAMI, Pattern Recognition, ICCV, AAAI, and IJCAI. His research outcomes also get international recognition such as best paper and best presentation awards. He has been actively conducting interdisciplinary research through various application-oriented projects, leading to publications on top venues such as IEEE Transactions on Automation Science and Engineering, and Tourism Management. Besides application-driven research, he also works on fundamental research problems such as 3D human pose reconstruction, multimodal data/sensor fusion, and efficient transfer learning.
