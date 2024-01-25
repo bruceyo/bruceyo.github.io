@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: bruceyo2011@gmail.com
+  email: xinboyu@intl.zju.edu.cn
   #phone: +852 8888 8888
   address:
-    #street: 450 Serra Mall
-    #city: Stanford
-    region: Kowloon, HK, China
+    street: 718 East Haizhou Road
+    city: Haining
+    Province: Zhejiang,
     #postcode: '94305'
-    country: Hong Kong
+    country: China
     #country_code: HK
   coordinates:
-    latitude: '22.3042'
-    longitude: '114.1798'
-  directions: The Hong Kong Polytechnic University
+    latitude: '30.2582'
+    longitude: '120.1192'
+  directions: International Campus, Zhejiang University
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
