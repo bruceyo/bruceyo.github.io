@@ -36,7 +36,7 @@ abstract: |-
   than existing methods. Code is available:
   https://github.com/bruceyo/EGCN.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.png
   focal_point: Smart
